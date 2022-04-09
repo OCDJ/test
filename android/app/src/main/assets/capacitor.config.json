@@ -1,0 +1,6 @@
+{
+	"appId": "com.transistorcircuit.app",
+	"appName": "transistor-circuit",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
