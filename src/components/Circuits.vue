@@ -17,7 +17,8 @@ export default {
   data(){
     return {
       circuits:[
-        {id:1, name:"Polarização Fixa"},
+        {id:1, name:"TBJ: Polarização Fixa"},
+        {id:2, name:"TBJ: Polarização DTB"},
       ],
     }
   }
